@@ -3,9 +3,9 @@
 It was designed to facilitate a start up a react script.
 
 Here just installed and configured:
-Eslint based on airbnb rules.
-Localization library (i18n) just configured with Portuguese and English.
-and tsconfig basic configuration.
+- Eslint based on airbnb rules.
+- Localization library (i18n) just configured with Portuguese and English.
+- tsconfig basic configuration.
 
 If you have any sugestion to improve this template, please contact me, i will be apreciated by the advice!
 
